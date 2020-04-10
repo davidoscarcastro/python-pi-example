@@ -2,7 +2,7 @@
 
 def main(msg):
     //no longer need comments here
-    //take 6
+    //take 7
     print(msg)
 
 def secondary():
