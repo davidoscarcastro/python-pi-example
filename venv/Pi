@@ -1,0 +1,3 @@
+#!/usr/bun/python
+
+print("Hello World")
