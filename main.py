@@ -4,7 +4,7 @@ def main(msg):
     //no longer need comments here
     print(msg)
 
-def secondary90:
+def secondary():
     print("newfunction")
 
 main("Hello People")
